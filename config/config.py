@@ -22,8 +22,8 @@ JSDATI_PASSWORD = ''
 # ('server_host', 'server_port', 'encrypt_method', 'password')
 ss_config_list = []
 
-V2EX_USERNAME = ''
-V2EX_PASSWORD = ''
+V2EX_USERNAME = 'jeremaihloo'
+V2EX_PASSWORD = '121226nnn'
 # http proxies
 http_proxy_list = []
 
